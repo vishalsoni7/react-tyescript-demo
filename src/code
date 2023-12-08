@@ -1,0 +1,59 @@
+// import Greet from "./component/Greet";
+// import Person from "./component/Person";
+// import PersonList from "./component/PersonList";
+// import Status from "./component/Status";
+
+// const personName = {
+//   firstName: "Vishal",
+//   lastName: "Soni",
+// };
+
+// const nameList = [
+//   {
+//     first: "Bruce",
+//     last: "Wane",
+//   },
+//   {
+//     first: "Clark",
+//     last: "Kent",
+//   },
+//   {
+//     first: "Princess",
+//     last: "Diana",
+//   },
+// ];
+
+{
+  /* <Greet name="Vishal" sessionNumber={1} isLoggedIn={false} />
+      <Person name={personName} />
+      <PersonList names={nameList} /> */
+}
+{
+  /* <Status status="success" /> */
+}
+
+// import Greet from "./component/Greet";
+// import Header from "./component/Header";
+// import Oscar from "./component/Oscar";
+
+// <Oscar>
+//   {" "}
+//   <Header> Placeholder text</Header>{" "}
+// </Oscar>;
+
+// {
+//   /* <Header> Placeholder text </Header> */
+// }
+
+// <Greet name="Vishal" sessionNumber={5} isLoggedIn={true} />;
+
+// import Button from "./component/Button";
+// <Button clickBtn={(event, id) => console.log("clicked", event, id)} />
+
+// import Input from "./component/Input";
+
+// <Input onChange={(event) => console.log(event.target.value)} value="" />;
+
+// import Style from "./component/Style";
+
+// <Style styles={{ border: "2px solid" }} />
